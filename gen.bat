@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=com.zero.airgen -DarchetypeArtifactId=com-zero-airgen
