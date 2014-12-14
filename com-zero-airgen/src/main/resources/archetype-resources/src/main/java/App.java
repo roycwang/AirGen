@@ -1,4 +1,4 @@
-package $com.zero.airgen;
+package $groupId;
 
 /**
  * Hello world!
