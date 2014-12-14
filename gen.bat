@@ -1,1 +1,1 @@
-mvn archetype:generate -DarchetypeGroupId=com.zero.airgen -DarchetypeArtifactId=com-zero-airgen
+mvn archetype:generate -e -DarchetypeGroupId=com.zero.airgen -DarchetypeArtifactId=com-zero-airgen -DarchetypeVersion=1.0-SNAPSHOT -DartifactId=com-zero-blog-zeroblogservice -DgroupId=com.zero.blog.zeroblogservice -DarchetypeCatalog=local 
